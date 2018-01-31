@@ -3,6 +3,7 @@
 ## Resources
 
 ### General
+* https://anders.com/blockchain/
 * https://learnxinyminutes.com/docs/solidity/
 * http://truffleframework.com/
 * http://truffleframework.com/ganache/
